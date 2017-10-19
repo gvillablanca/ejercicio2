@@ -1,0 +1,53 @@
+/*first div*/
+.cuadrado1{
+	background-color:red;
+	height:400px;
+	width:400px ;
+	position:absolute;
+
+}
+.cuadrado2{
+	background-color:purple;
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+
+}
+.cuadrado3{
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	position:absolute;
+	top: 100px;
+	left: 100px;
+
+}
+/*second div*/
+.cuadrado4{
+	background-color: blue;
+	height:400px;
+	width:400px ;
+	position: absolute;
+	top:450px;
+
+
+}
+.cuadrado5{
+	background-color:green;
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+
+}
+.cuadrado6{
+	background-color: black;
+	height: 100px;
+	width: 100px;		
+	top: 450px;
+	left: 0px;
+
+}
